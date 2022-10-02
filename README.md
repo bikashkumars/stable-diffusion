@@ -11,3 +11,9 @@ Open source version of diffusion model
 ## Tensorflow version of Stable Diffusion
 
 [Open on Google colab](https://colab.research.google.com/github/bikashkumars/stable-diffusion/blob/main/stable_diffusion_tensorflow.ipynb)
+
+![](asronut_bikash.png)
+![](car.png)
+![]duffusion_cat_1.png)
+![](girl.png)
+![](kingkong.png)
