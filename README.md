@@ -14,6 +14,6 @@ Open source version of diffusion model
 
 ![](asronut_bikash.png)
 ![](car.png)
-![]duffusion_cat_1.png)
+![](duffusion_cat_1.png)
 ![](girl.png)
 ![](kingkong.png)
